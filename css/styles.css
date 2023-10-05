@@ -5,3 +5,6 @@ body {
 body h1 {
     color: yellowgreen
 }
+table {
+    border: 1px solid black;
+}
